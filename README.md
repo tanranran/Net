@@ -43,8 +43,9 @@ Welcome to international translation of this project's documents/notes, thank yo
 - [x] 开发效率No.1
 - [x] 专为Android而生
 - [x] 支持OkHttp所有功能/组件
-- [x] DSL作用域编程
+- [x] 随时升级OkHttp版本保证网络安全性
 - [x] 优秀的源码/注释/文档/示例
+- [x] 永远保持社区维护
 
 ## 主要功能
 
